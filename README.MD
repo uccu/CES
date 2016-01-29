@@ -5,7 +5,7 @@ Civilization Extend System
 希望能让汉化工作更加方便管理，同时也希望能让大家找到自己喜欢做的作品。
 
 #主催
-* 轻飏
+* [轻飏](https://github.com/shby0527 "HayamaUmi")
 
 #参与人员
 * [H.cat](https://github.com/uccu "uccu")<br>
