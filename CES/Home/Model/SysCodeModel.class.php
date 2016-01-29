@@ -1,7 +1,7 @@
 <?php
 namespace Home\Model;
 use Think\Model;
-class SysCode extends Model {
+class SysCodeModel extends Model {
    
    
 }

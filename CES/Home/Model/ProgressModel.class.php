@@ -1,7 +1,7 @@
 <?php
 namespace Home\Model;
 use Think\Model;
-class Progress extends Model {
+class ProgressModel extends Model {
    
    
 }
